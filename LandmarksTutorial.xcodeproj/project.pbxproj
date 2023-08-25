@@ -19,6 +19,7 @@
 		C24EC3872A993AE70091E8A6 /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = C24EC3862A993AE70091E8A6 /* landmarkData.json */; };
 		C24EC3892A993B1E0091E8A6 /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = C24EC3882A993B1E0091E8A6 /* Landmark.swift */; };
 		C24EC38B2A9941810091E8A6 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = C24EC38A2A9941810091E8A6 /* ModelData.swift */; };
+		C24EC3952A9951AE0091E8A6 /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = C24EC3942A9951AE0091E8A6 /* LandmarkRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		C24EC3862A993AE70091E8A6 /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = landmarkData.json; sourceTree = "<group>"; };
 		C24EC3882A993B1E0091E8A6 /* Landmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
 		C24EC38A2A9941810091E8A6 /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
+		C24EC3942A9951AE0091E8A6 /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -146,6 +148,7 @@
 				C24EC3592A9838590091E8A6 /* ContentView.swift */,
 				C24EC3812A9934B60091E8A6 /* CircleImage.swift */,
 				C24EC3842A9935F90091E8A6 /* MapView.swift */,
+				C24EC3942A9951AE0091E8A6 /* LandmarkRow.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -302,6 +305,7 @@
 				C24EC3582A9838590091E8A6 /* LandmarksTutorialApp.swift in Sources */,
 				C24EC3822A9934B60091E8A6 /* CircleImage.swift in Sources */,
 				C24EC3892A993B1E0091E8A6 /* Landmark.swift in Sources */,
+				C24EC3952A9951AE0091E8A6 /* LandmarkRow.swift in Sources */,
 				C24EC38B2A9941810091E8A6 /* ModelData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
