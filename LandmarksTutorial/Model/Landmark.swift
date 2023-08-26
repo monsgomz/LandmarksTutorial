@@ -9,7 +9,7 @@ import Foundation
 import SwiftUI
 import CoreLocation //para interactuar con MapKit
 
-struct Landmark: Hashable, Codable { //codable para conceccion entre archivo y struct
+struct Landmark: Hashable, Codable, Identifiable { //codable para conceccion entre archivo y struct, Identifiable porque tiene un ID y para ser leido en listas
 	var id: Int
 	var name: String
 	var park: String

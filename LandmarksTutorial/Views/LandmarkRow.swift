@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct LandmarkRow: View {
-	var landmark: Landmark
+	var landmark: Landmark //parametro de la vista
 	
     var body: some View {
 		
