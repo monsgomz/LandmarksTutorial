@@ -15,6 +15,7 @@ struct Landmark: Hashable, Codable, Identifiable { //codable para conceccion ent
 	var park: String
 	var state: String
 	var description: String
+	var isFavorite: Bool
 	
 	private var imageName: String //privada porque solo nos interesa la imagen no esta variable
 	var image: Image {
