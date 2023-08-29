@@ -1,6 +1,6 @@
 # Apple Landmarks Tutorial Project
 
-![Landmarks App](Landmark.png)
+![Landmarks App](Landmarks.png)
 
 Welcome to the Apple Landmarks tutorial project repository! This repository contains the source code and assets for my implementation of the Apple Landmarks tutorial. The tutorial is designed to help developers learn SwiftUI and build a Landmarks app for exploring notable places.
 
